@@ -1,2 +1,2 @@
 # PlatformWeek4
-Assignments for Platform by Per Scholas Java Developer Track
+Assignment for Platform by Per Scholas Java Developer Track Week 4
